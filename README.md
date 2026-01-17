@@ -5,9 +5,13 @@ Welcome to my data science portfolio. This repository showcases my projects in *
 
 ## 📂 Projects
 
-Below are selected projects from my postgraduate studies and personal practice.
+Below are selected personal projects showcasing my work in R and Python, with a focus on statistical modelling, machine learning, and data analysis.
 
 ### 📊 R Projects
+📌 **Housing Price Prediction – Statistical Modelling (R)**  
+Built a full statistical regression modelling pipeline to predict housing prices, including OLS regression, diagnostics, and regularised models (Ridge, Lasso, Elastic Net), with cross-validation and performance comparison.  
+**Skills:** R, statistical modelling, regression analysis, diagnostics, regularisation, cross-validation  
+🔗 https://github.com/Anthony-Mojela/statistical-modelling-housing-prices-r
 
 ### 🤖 Python Projects
 
