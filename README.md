@@ -1,6 +1,6 @@
 # Anthony-Mojela.-Data-science-portfolio
 
-Welcome to my data science portfolio. This repository showcases my projects in **R and Python**, focusing on  statistical modelling, machine learninga and data analysis,
+Welcome to my data science portfolio. This repository showcases my projects in **R and Python**, focusing on  statistical modelling, machine learning and data analysis(MS Excel dashboards and Power BI),
 ---
 
 ## 📂 Projects
