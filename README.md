@@ -11,7 +11,7 @@ Below are selected personal projects showcasing my work in R and Python, with a 
 📌 **Housing Price Prediction – Statistical Modelling (R)**  
 Built a full statistical regression modelling pipeline to predict housing prices, including OLS regression, diagnostics, and regularised models (Ridge, Lasso, Elastic Net), with cross-validation and performance comparison.  
 **Skills:** R, statistical modelling, regression analysis, diagnostics, regularisation, cross-validation  
-🔗 https://github.com/Anthony-Mojela/statistical-modelling-housing-prices-r
+📌 [Housing Price Prediction – Statistical Modelling (R)](https://github.com/Anthony-Mojela/housing_statistical_modelling)
 
 ### 🤖 Python Projects
 
