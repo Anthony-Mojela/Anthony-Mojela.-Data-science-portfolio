@@ -15,4 +15,6 @@ Built a full statistical regression modelling pipeline to predict housing prices
 
 ### 🤖 Python Projects
 
-📊 Retail Analytics|Excel BI|Operations ,Supply chain & Finance
+### 📊 Data Analytics
+
+ Retail Analytics|Excel BI|Operations ,Supply chain & Finance
