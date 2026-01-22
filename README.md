@@ -18,3 +18,55 @@ Built a full statistical regression modelling pipeline to predict housing prices
 ### 📊 Data Analytics
 
  Retail Analytics|Excel BI|Operations ,Supply chain & Finance
+
+ 📌 Project summary
+
+Built an interactive Excel dashboard used in a retail environment to measure, monitor, and communicate supplier service level performance. The dashboard supports supplier/vendor review sessions by highlighting where service failures occur and where improvement actions are required.
+
+🎯 Business problem
+
+Retailers depend on suppliers for consistent product availability. Poor service levels lead to:
+
+empty shelves,
+
+lost sales,
+
+higher operational costs.
+
+This project enables the business and suppliers to objectively track performance and make data-driven improvement decisions.
+
+📊 Key features
+
+Service level KPIs (e.g. fill rate, delivery performance, compliance trends)
+
+Supplier and category performance comparisons
+
+Time-series tracking to identify deterioration or improvement
+
+Exception-based views to focus on underperforming suppliers
+
+Automated refresh structure for recurring reports
+
+🧠 What this demonstrates
+
+Translating business problems into measurable KPIs
+
+Data modeling and structuring for performance reporting
+
+Analytical thinking applied to operations & supply chain
+
+Building decision-support dashboards (not just visuals)
+
+🛠 Tools & skills
+
+Microsoft Excel
+
+Power Query (data cleaning & transformation)
+
+PivotTables & data modeling
+
+Advanced formulas
+
+KPI design & performance measurement
+
+Dashboard UX and executive reporting
